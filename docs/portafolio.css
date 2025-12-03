@@ -37,7 +37,7 @@ text-decoration: underline;
 }
 
 body{
-    background-image: url("GitHub_Invertocat_Logo.svg.png");
+    background-image: url(GitHub_Invertocat_Logo.svg.png);
     background-repeat: no-repeat;
     background-size: 500px;
     background-position: center;
